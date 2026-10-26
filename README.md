@@ -41,6 +41,8 @@ home-solar-model/
 │   └── sample_site.csv     # 华北月日照示例数据
 ├── tests/
 │   └── test_solar_model.py # 单元测试
+├── web/
+│   └── 光伏发电动态模型.html # 浏览器直接打开的可视化动态模型
 ├── requirements.txt
 └── .gitignore
 ```
