@@ -1,0 +1,13 @@
+{
+  "capacity_kw": 5.0,
+  "system_efficiency": 0.80,
+  "capex_per_watt": 3.20,
+  "opex_ratio": 0.005,
+  "grid_price": 0.55,
+  "feed_in_price": 0.40,
+  "self_use_ratio": 0.70,
+  "degradation_first_year": 0.02,
+  "degradation_annual": 0.0055,
+  "project_years": 25,
+  "export_results": true
+}
